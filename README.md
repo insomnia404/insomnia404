@@ -3,12 +3,18 @@
 💻 **Aspiring Full-Stack Developer**  
 > Learning full-stack web development step by step. Still a noob, but trying to make it :D
 
+---
+
+## ⚡ About Me
+
+- 🚒 Volunteer Firefighter  
+- 📚 Sciences and Technologies Student  
+- 🎸 Guitarist (Metal / Rock)
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack  (Learning)
 
-### Core
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
@@ -37,11 +43,3 @@
 ## 📫 Connects 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/insomnia404)  
-
----
-
-## ⚡ About Me
-
-- 🚒 Volunteer Firefighter  
-- 📚 Sciences and Technologies Student  
-- 🎸 Guitarist (Metal / Rock)
