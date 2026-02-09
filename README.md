@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Insomnia404
 
 💻 **Aspiring Full-Stack Developer**  
-> Learning full-stack web development step by step :D Still a noob, but trying to make it xD
+> Learning full-stack web development step by step. Still a noob, but trying to make it :D
 
 
 ---
